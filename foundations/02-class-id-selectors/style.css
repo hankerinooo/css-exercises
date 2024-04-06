@@ -1,0 +1,23 @@
+
+*{
+    font-family: sans-serif;
+}
+.odd{
+    background-color: lightcoral;
+}
+
+.big{
+    font-size: 36px;
+}
+
+#a{
+    color: blue;
+    font-family: serif;
+    font-size: 48px;
+}
+
+#b{
+    background-color: lightgreen;
+    font-family: serif;
+    font-weight: bold;
+}
